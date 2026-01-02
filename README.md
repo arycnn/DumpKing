@@ -1,4 +1,4 @@
-# 👑 DumpKing v3.1
+# 👑 DumpKing v3.2
 
 **DumpKing** is an advanced, open-source memory manipulation suite for Android. It combines a GameGuardian-style memory scanner with a fully automated extraction suite for Unity (IL2CPP) games.
 
