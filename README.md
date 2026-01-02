@@ -1,2 +1,2 @@
 # DumpKing
-Read memory of an app internally.
+Read memory of an Unity app/game internally.
