@@ -10,6 +10,7 @@ It works by injecting a lightweight Smali server (`MemorySpy`) into the target A
 * **Live Memory Watcher:** Monitor values changing in real-time.
 * **God Mode Tools:** Freeze values (HP, Ammo, Timer) or edit them in batches.
 * **Smart Dumping:** Bypasses socket limits to dump massive memory regions (100MB+) without crashing the app.
+* **File Replacement:** Replace files of the game without having to constantly decompile/recompile.
 * **Automated Il2Cpp Extractor:** One-click automation that:
 1. Hunts down and dumps the decrypted `global-metadata.dat` (even if hidden).
 2. Locates and dumps `libil2cpp.so`.
